@@ -1,4 +1,4 @@
-# The Dress Edit
+# Tiya's Fashion
 
 Static daily page of designer dress deals (Zimmermann, Self-Portrait, Marchesa, Dress the Population, Alice + Olivia, Elliatt, Helsi) in US 6 / US 8.
 
